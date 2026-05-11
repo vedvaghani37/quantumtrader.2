@@ -18,7 +18,7 @@ RISK_FACTOR      = 0.5
 QAOA_MAXITER     = 150
 
 # ── Cadence ──────────────────────────────────────────────────
-SCAN_INTERVAL_SEC  = 60
+SCAN_INTERVAL_SEC  = 300
 NEWS_REFRESH_SEC   = 300
 
 # ── Signal Thresholds ────────────────────────────────────────
