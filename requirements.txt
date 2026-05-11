@@ -19,3 +19,5 @@ textblob
 newsapi-python
 
 alpaca-py
+
+lxml
