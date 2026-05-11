@@ -17,3 +17,5 @@ schedule
 textblob
 
 newsapi-python
+
+alpaca-py
